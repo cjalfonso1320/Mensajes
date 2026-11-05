@@ -1,0 +1,13 @@
+{
+  "server_host": "127.0.0.1",
+  "server_port": 5050,
+  "allow_self_messages": true,
+  "authorized_numbers": [],
+  "commands": {
+    "urgent": ["!urgente", "!sos", "!critico"],
+    "warning": ["!alerta", "!importante", "!aviso"],
+    "info": ["!info", "!comunicado"]
+  },
+  "reply_feedback": true
+}
+
